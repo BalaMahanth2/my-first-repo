@@ -1,2 +1,10 @@
 # my-first-repo
-This is my first repo which starts my career towards automation and devops 
+I'm  Y Bala Mahanth currently working as a Jr.Pipeline developer at littleblackstarvfx 
+where i create CI/CD pipelines to develop in house tools and maintain them. 
+
+Devops enthusiast 
+
+**Skills**
+
+**version controlling system**
+git 
