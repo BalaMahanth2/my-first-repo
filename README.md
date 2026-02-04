@@ -1,6 +1,6 @@
-# my-first-repo
+# My Self
 I'm  Y Bala Mahanth currently working as a Jr.Pipeline developer at littleblackstarvfx 
-where i create CI/CD pipelines to develop in house tools and maintain them. 
+where I build CI/CD pipelines to develop In-House tools and maintain them. 
 
 Devops enthusiast 
 
